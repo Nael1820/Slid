@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle alt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				101,
+				2
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left alt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				41,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right alt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				-13
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down alt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				119,
+				69
+			],
+			"anim": "jump",
+			"fps": 24,
+			"name": "jump alt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				53,
+				63
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up alt",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "moonleap/char/luanoAssets",
+	"position": [
+		50,
+		260
+	],
+	"healthicon": "moon-night",
+	"flip_x": false,
+	"healthbar_colors": [
+		163,
+		149,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

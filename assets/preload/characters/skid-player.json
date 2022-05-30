@@ -1,0 +1,221 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				3
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-80,
+				-50
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-74,
+				22
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-108,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				15
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "leftMiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-67,
+				-38
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "downMiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-72,
+				30
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "upMiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-102,
+				-1
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "rightMiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-74,
+				22
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				18
+			],
+			"anim": "hurt",
+			"fps": 24,
+			"name": "BF hit",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-4,
+				0
+			],
+			"anim": "scared",
+			"fps": 24,
+			"name": "BF idle shaking",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				88
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "death start",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				1,
+				91
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "death loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				119,
+				217
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "death end",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-16
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "boyfriend dodge",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				294,
+				267
+			],
+			"anim": "attack",
+			"fps": 24,
+			"name": "boyfriend attack",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				-40
+			],
+			"anim": "pre-attack",
+			"fps": 24,
+			"name": "bf pre attack",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "moonleap/char/skidAssets",
+	"position": [
+		-20,
+		270
+	],
+	"healthicon": "skid",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		164,
+		32
+	],
+	"camera_position": [
+		400,
+		-110
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
